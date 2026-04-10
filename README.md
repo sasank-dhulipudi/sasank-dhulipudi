@@ -12,5 +12,5 @@ Data Science graduate student at Pace University focused on building practical A
 ![](https://nirzak-streak-stats.vercel.app/?user=sasank-dhulipudi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasank-dhulipudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
